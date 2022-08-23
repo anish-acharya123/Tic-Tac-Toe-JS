@@ -170,6 +170,8 @@ color:  rgb(90, 194, 159);
   .play-board section span{
     height: 95px;
   width: 127px;
+  font-weight: 45px;
+  line-height: 100px;
   }
   .result-box .won-text{
     font-size: 20px;
@@ -185,6 +187,8 @@ color:  rgb(90, 194, 159);
   .play-board section span{
     height: 85px;
   width: 127px;
+  line-height: 90px;
+  font-size: 40px;
   }
   .result-box{
     margin: 10px;
